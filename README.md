@@ -14,9 +14,9 @@
    venv\Scripts\activate     # Windows
 
 3. Instale as dependências:
-4. ```bash
+   ```bash
    pip install -r requirements.txt
 
-5. Execute o programa:
-6. ```bash
+4. Execute o programa:
+   ```bash
    python code/main.py
